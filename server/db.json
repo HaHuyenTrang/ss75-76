@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "gấu bông",
+      "price": 20000,
+      "stock": 12,
+      "image": "https://bizweb.dktcdn.net/100/348/581/products/pikaboo7-anh-77d0166f-df71-4580-9732-eeb8db20d484.jpg?v=1691572415793",
+      "description": "cỡ lớn,  ✔️Ruột nhồi 100% bông gòn trắng vải mềm mịn tạo cảm giác thoải mái khi ôm. "
+    },
+    {
+      "id": 2,
+      "name": "gấu bông",
+      "price": 5000,
+      "stock": 11,
+      "image": "https://teddyhomies.com/wp-content/uploads/2022/11/gau-bong-ho-ngao.jpg",
+      "description": "cỡ vừa, ✔️ Là món quà ý nghĩa dành tặng người thương✔️ Shop luôn khẳng định 100% sản phẩm đến tay người tiêu dùng giống hệt hình ảnh và video mô tả sản phẩm."
+    },
+    {
+      "id": 3,
+      "name": "gấu bông",
+      "price": 6100,
+      "stock": 9,
+      "image": "https://teddyhomies.com/wp-content/uploads/2022/11/gau-bong-ho-ngao.jpg",
+      "description": "cỡ nhỏ, ✔️ Ảnh Thật Độc Quyền Shop Tự Chụp ✔️ An toàn cho sức khỏe người dùng, "
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "gấu bông",
+      "price": 20000,
+      "stock": 12,
+      "image": "https://bizweb.dktcdn.net/100/348/581/products/pikaboo7-anh-77d0166f-df71-4580-9732-eeb8db20d484.jpg?v=1691572415793",
+      "description": "cỡ lớn,  ✔️Ruột nhồi 100% bông gòn trắng vải mềm mịn tạo cảm giác thoải mái khi ôm. "
+    }
+  ]
+}

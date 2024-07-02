@@ -1,0 +1,11 @@
+img{
+    width: 200px;
+}
+.li-border{
+    display: flex;
+    border: 1px solid black;
+    gap:50px;
+    width: 600px;
+    padding: 20px;
+    justify-content: center;
+}
